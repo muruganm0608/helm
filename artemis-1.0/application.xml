@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/muruganm0608/helm/artemis-1.0
+    repoURL: https://github.com/muruganm0608/helm/tree/main/artemis-1.0
     targetRevision: HEAD
     chart: artemis
   destination:
